@@ -3,7 +3,7 @@ import { signOut,getAuth } from "firebase/auth";
 import React from "react";
 import { Button } from "react-bootstrap";
 import { Link,  useNavigate } from "react-router-dom";
-import firebaseConfig from "../Login/firebaseConfig";
+import firebaseConfig from "../Login/firebase.Config";
 
 const Header = () => {
     const navigate = useNavigate();

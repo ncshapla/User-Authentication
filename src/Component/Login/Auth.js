@@ -11,7 +11,7 @@ import { Button, Form } from "react-bootstrap";
 import { useNavigate } from "react-router-dom";
 import { MyContext } from "../../App";
 import "./Auth.css";
-import firebaseConfig from "./firebaseConfig";
+import firebaseConfig from "./firebase.Config";
 
 const Auth = () => {
   initializeApp(firebaseConfig);
