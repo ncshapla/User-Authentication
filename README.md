@@ -25,4 +25,4 @@ This is a simple User authentication system, where user can -
 * VS Code
 * Git
 * Github
-* Firebase for hosting
+* Firebase for hosting.
